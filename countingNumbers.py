@@ -1,0 +1,3 @@
+
+def pickingNumbers(a):
+    
